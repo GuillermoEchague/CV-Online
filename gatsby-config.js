@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `cvGE`,
+        name: `CV-Guillermo-Echagüe`,
+        short_name: `CVGE`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
