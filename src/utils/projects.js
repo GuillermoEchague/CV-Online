@@ -91,7 +91,7 @@ export default[
     },
     {
         title: "News - PWA",
-        description: "APP con TS en Ionic consumiendo la API de News http://api.openweathermap.org/",
+        description: "APP con TS en Ionic consumiendo la API de News https://newsapi.org",
         url:"https://github.com/GuillermoEchague/PWA-News",
         image: News,
     },
