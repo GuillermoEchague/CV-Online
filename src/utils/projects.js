@@ -10,6 +10,7 @@ import strapi from "../images/projects/strapi-RN.png";
 import prestamo from "../images/projects/prestamo.png";
 import server from "../images/projects/server.png";
 import App1 from "../images/projects/home.png";
+import News from "../images/projects/news.png";
 
 export default[
 
@@ -92,7 +93,7 @@ export default[
         title: "News - PWA",
         description: "APP con TS en Ionic consumiendo la API de News http://api.openweathermap.org/",
         url:"https://github.com/GuillermoEchague/PWA-News",
-        image: clima,
+        image: News,
     },
 
 
