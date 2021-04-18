@@ -12,6 +12,7 @@ import server from "../images/projects/server.png";
 import App1 from "../images/projects/home.png";
 import News from "../images/projects/news.png";
 import Primer from "../images/projects/Primer.png";
+import Camera from "../images/projects/camera.png";
 
 export default[
 
@@ -98,12 +99,17 @@ export default[
     },
 
     {
+        title: "Camera - IONIC",
+        description: "APP con TS en Ionic que utiliza un elemento nativo del equipo como lo es la cámara utilizando Firebase como BD.",
+        url:"https://github.com/GuillermoEchague/Camara-con-IONIC",
+        image: Camera,
+    },
+    {
         title: "News - PWA",
         description: "APP con TS en Ionic consumiendo la API de News https://newsapi.org",
         url:"https://github.com/GuillermoEchague/PWA-News",
         image: News,
     },
-
 
 
 
