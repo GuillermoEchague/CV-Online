@@ -9,6 +9,7 @@ import scrum from "../images/projects/scrum.png";
 import strapi from "../images/projects/strapi-RN.png";
 import prestamo from "../images/projects/prestamo.png";
 import server from "../images/projects/server.png";
+import App1 from "../images/projects/home.png";
 
 export default[
 
@@ -50,6 +51,12 @@ export default[
         description: "Desarrollo de un proyecto en React que consiste en consumir una API de https://developers.giphy.com, junto con testing.",
         url:"https://github.com/GuillermoEchague/react-gifexpertapp",
         image: giftReact,
+    },
+    {
+        title: "ReactApp1 - React",
+        description: "Desarrollo de un proyecto en React con validación via email con Firebase que consiste en una pagina E-comerce.",
+        url:"https://github.com/GuillermoEchague/App1_react_firebase",
+        image: App1,
     },
     {
         title: "MovieApp - Kotlin",
