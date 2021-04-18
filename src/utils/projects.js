@@ -11,6 +11,7 @@ import prestamo from "../images/projects/prestamo.png";
 import server from "../images/projects/server.png";
 import App1 from "../images/projects/home.png";
 import News from "../images/projects/news.png";
+import Primer from "../images/projects/primer.png";
 
 export default[
 
@@ -89,6 +90,13 @@ export default[
         url:"https://github.com/GuillermoEchague/API_strapi_APP_News",
         image: strapi,
     },
+    {
+        title: "Elementos - IONIC",
+        description: "APP con TS en Ionic desarrollada con gran cantidad de componentes del Framework IONIC",
+        url:"https://github.com/GuillermoEchague/Primer-programa-IONIC",
+        image: Primer,
+    },
+
     {
         title: "News - PWA",
         description: "APP con TS en Ionic consumiendo la API de News https://newsapi.org",
