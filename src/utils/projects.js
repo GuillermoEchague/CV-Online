@@ -11,7 +11,7 @@ import prestamo from "../images/projects/prestamo.png";
 import server from "../images/projects/server.png";
 import App1 from "../images/projects/home.png";
 import News from "../images/projects/news.png";
-import Primer from "../images/projects/primer.png";
+import Primer from "../images/projects/Primer.png";
 
 export default[
 
