@@ -7,7 +7,7 @@ import "./Social.scss"
 
 export default function Social() {
     return (
-      <div class="social1">
+      <div class="social">
       
       <a 
       href= "https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/"
