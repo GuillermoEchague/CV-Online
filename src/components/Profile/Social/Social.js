@@ -2,12 +2,12 @@ import React from 'react'
 import IcTwitter from "../../../images/icons/twitter.svg"
 import IcGithub from "../../../images/icons/github.svg"
 import IcLinkedin from "../../../images/icons/linkedin.svg"
-import { Image} from "react-bootstrap"
+import {Image} from "react-bootstrap"
 import "./Social.scss"
 
 export default function Social() {
     return (
-      <div class="social">
+      <div class="link">
       
       <a 
       href= "https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/"
