@@ -23,7 +23,7 @@ export default function Profile() {
                     <Card.Body>
                       <Card.Title className="title">{project.title}</Card.Title>
                       <Card.Text>{project.description}</Card.Text>
-                      <a href={project.url} target="_blank">
+                      <a href={project.url} target="_blank" rel="noreferrer noopener">
                         <Button variant="primary">Ver proyecto</Button>
                       </a>
                     </Card.Body>
