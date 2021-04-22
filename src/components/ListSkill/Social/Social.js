@@ -27,7 +27,7 @@ export default function Social() {
       href= "https://twitter.com/GuillermoEchag1"
       target="_blank" 
       rel="noreferrer noopener">
-      <Image height={30} src="../../../images/icons/twitter.svg" />
+      <Image height={30} src="../../../images/icons/twitter_PNG1.png" />
       </a>
       </div>
       
