@@ -13,21 +13,21 @@ export default function Social() {
       href= "https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/"
       target="_blank" 
       rel="noreferrer noopener">
-      <Image height={30} src={IcLinkedin} />
+      <Image height={30} src="../../../images/icons/linkedin.svg" />
       </a>
       
       <a 
       href= "https://github.com/GuillermoEchague"
       target="_blank" 
       rel="noreferrer noopener">
-      <Image height={30} src={IcGithub} />
+      <Image height={30} src="../../../images/icons/github.svg" />
       </a>
       
       <a 
       href= "https://twitter.com/GuillermoEchag1"
       target="_blank" 
       rel="noreferrer noopener">
-      <Image height={30} src={IcTwitter} />
+      <Image height={30} src="../../../images/icons/twitter.svg" />
       </a>
       </div>
       
