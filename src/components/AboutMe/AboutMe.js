@@ -1,6 +1,8 @@
 import React from "react"
 import { Container, Button } from "react-bootstrap"
-import CV from "../../images/cv1.pdf"
+import CV1 from "../../images/cv1.pdf"
+
+
 import "./AboutMe.scss"
 
 export default function AboutMe() {
@@ -12,7 +14,7 @@ export default function AboutMe() {
       </p>
       <hr />
 
-      <a href={CV} target="_blank" rel="noreferrer noopener">
+      <a href={CV1} target="_blank" rel="noreferrer noopener">
         <Button primary>VER MI RESUMEN</Button>
       </a>
     </Container>
