@@ -51,7 +51,7 @@ export default[
         title: "GraphQL Cliente - React.js",
         description: "Desarrollo del del cliente en React que consume datos del servicio creado con GraphQL en Node.js, desarrollado en el curso de GraphQL en Escalab.",
         url:"https://github.com/GuillermoEchague/graphql-client",
-        image: apiNode,
+        image: clienteGraph,
     },
     {
         title: "GifsApp - Angular",
