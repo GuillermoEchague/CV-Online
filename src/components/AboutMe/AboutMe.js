@@ -1,6 +1,6 @@
 import React from "react"
 import { Container, Button } from "react-bootstrap"
-import CV from "../../images/cv.pdf"
+import CV from "../../images/CV.pdf"
 import "./AboutMe.scss"
 
 export default function AboutMe() {
