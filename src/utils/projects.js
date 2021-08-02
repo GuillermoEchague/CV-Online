@@ -10,9 +10,8 @@ import strapi from "../images/projects/strapi-RN.png";
 import prestamo from "../images/projects/prestamo.png";
 import server from "../images/projects/server.png";
 import App1 from "../images/projects/home.png";
-import News from "../images/projects/news.png";
-import Primer from "../images/projects/Primer.png";
-import Camera from "../images/projects/camera.png";
+import clienteGraph from "../images/projects/clienteGraph.png"
+
 
 export default[
 
