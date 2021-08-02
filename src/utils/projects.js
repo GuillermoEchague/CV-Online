@@ -41,7 +41,18 @@ export default[
         url:"https://github.com/GuillermoEchague/Rest_server",
         image: apiNode,
     },
-
+    {
+        title: "GraphQL Server - Node.js",
+        description: "Desarrollo de un servicio GraphQL Server desarrollado con Node.js, desarrollado en el curso de GraphQL en Escalab.",
+        url:"https://github.com/GuillermoEchague/graphql-server-node",
+        image: apiNode,
+    },
+    {
+        title: "GraphQL Cliente - React.js",
+        description: "Desarrollo del del cliente en React que consume datos del servicio creado con GraphQL en Node.js, desarrollado en el curso de GraphQL en Escalab.",
+        url:"https://github.com/GuillermoEchague/graphql-client",
+        image: apiNode,
+    },
     {
         title: "GifsApp - Angular",
         description: "Desarrollo de un proyecto en Angular que consiste en consumir una API de https://developers.giphy.com.",
@@ -91,25 +102,7 @@ export default[
         url:"https://github.com/GuillermoEchague/API_strapi_APP_News",
         image: strapi,
     },
-    {
-        title: "Elementos - IONIC",
-        description: "APP con TS en Ionic desarrollada con gran cantidad de componentes del Framework IONIC",
-        url:"https://github.com/GuillermoEchague/Primer-programa-IONIC",
-        image: Primer,
-    },
-
-    {
-        title: "Camera - IONIC",
-        description: "APP con TS en Ionic que utiliza un elemento nativo del equipo como lo es la cámara utilizando Firebase como BD.",
-        url:"https://github.com/GuillermoEchague/Camara-con-IONIC",
-        image: Camera,
-    },
-    {
-        title: "News - PWA",
-        description: "APP con TS en Ionic consumiendo la API de News https://newsapi.org",
-        url:"https://github.com/GuillermoEchague/PWA-News",
-        image: News,
-    },
+    
 
 
 
