@@ -18,15 +18,21 @@ export const estudios= [
         date:"En Curso"
     },
     {
+        title: "Emprendimiento Digital, Talento digital",
+        description: "Desarrollar prototipos funcionales y MVP de aplicaciones web utilizando el entorno Ruby y metodologías ágiles para responder a las distintas oportunidades de negocio.",
+        date:"11-2021"
+    },
+
+    {
         title: "DEVOPS, Mundos E",
         description: "Este programa responde a la demanda actual del mercado, de profesionales que entiendan (y trabajen) el Software de manera integral abarcando campos como desarrollo, calidad, seguridad, implementación, monitoreo y operación; ampliamente solicitados en una amplia gama de industrias.",
-        date:"En Curso"
+        date:"09-2021"
     },
 
     {
         title: "Arquitectura Cloud, Capacitación Usach",
         description: "Este curso proporcionará las habilidades y competencias en la correcta aplicación de los principios de arquitectura en la nube, según los principios establecidos en la plataforma de Amazon.",
-        date:"En Desarrollo"
+        date:"04-2021"
     },
     {
         title: "Curso Docker-Kubernetes, Escalab",
