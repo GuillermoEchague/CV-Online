@@ -8,7 +8,7 @@ export default function Social() {
       <div class="link">
       
       <a 
-      href= "https://www.linkedin.com/in/guillermo-echag%C3%BCe-arriaza-a198b2192/"
+      href= "https://www.linkedin.com/in/guillermo-e-a198b2192/"
       target="_blank" 
       rel="noreferrer noopener">
       <Image height={30} src="https://raw.githubusercontent.com/GuillermoEchague/GuillermoEchague/7e7f4a38d747f5d66c944714343ecd6c2cebba46/img/linkedin.svg" />
