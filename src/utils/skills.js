@@ -20,7 +20,7 @@ export const estudios= [
     {
         title: "Emprendimiento Digital, Talento digital",
         description: "Desarrollar prototipos funcionales y MVP de aplicaciones web utilizando el entorno Ruby y metodologías ágiles para responder a las distintas oportunidades de negocio.",
-        date:"11-2021"
+        date:"21-12-2021"
     },
 
     {
@@ -32,7 +32,7 @@ export const estudios= [
     {
         title: "Arquitectura Cloud, Capacitación Usach",
         description: "Este curso proporcionará las habilidades y competencias en la correcta aplicación de los principios de arquitectura en la nube, según los principios establecidos en la plataforma de Amazon.",
-        date:"04-2021"
+        date:"12-05-2021"
     },
     {
         title: "Curso Docker-Kubernetes, Escalab",
