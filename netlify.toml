@@ -1,10 +1,8 @@
 [build]
-  # Ruta del directorio donde Netlify encontrará los archivos para construir el proyecto
   publish = "dist"
-  # Comando de construcción para crear el contenido del sitio
   command = "npm run build"
-  # Versión de Node.js (opcional pero recomendado, si tienes problemas de compatibilidad)
-  node_version = "18.17.1"
+  node_version = "18.20.5"
+
 
 [dev]
   # Configuración para el entorno de desarrollo local en Netlify
