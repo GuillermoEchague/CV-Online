@@ -1,6 +1,6 @@
 import styles from './ProjectsStyles.module.css';
-import viberr from '../../assets/viberr.png';
-import freshBurger from '../../assets/fresh-burger.png';
+import home from '../../assets/home.png';
+import img1 from '../../assets/img1.png';
 import hipsster from '../../assets/hipsster.png';
 import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
@@ -11,28 +11,28 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={viberr}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Viberr"
-          p="Streaming App"
+          src={home}
+          link="https://github.com/GuillermoEchague/react-gifexpertapp"
+          h3="React"
+          p="React App with Firebase"
         />
         <ProjectCard
-          src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
+          src={img1}
+          link="https://github.com/GuillermoEchague/App1_react_firebase"
+          h3="React"
+          p="React App"
         />
         <ProjectCard
           src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Hipsster"
-          p="Glasses Shop"
+          link="https://github.com/GuillermoEchague/Proyecto-React-Native"
+          h3="React Native"
+          p="JavaScript"
         />
         <ProjectCard
           src={fitLift}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="FitLift"
-          p="Fitness App"
+          link="https://github.com/GuillermoEchague/MovieApp"
+          h3="Android"
+          p="Kotlin"
         />
       </div>
     </section>
